@@ -6,8 +6,8 @@ Este proyecto trata de recrear lo que hace Cloudfare al crear números aleatorio
 
 Para compilar hay que tener Maven y correr:
 
-```mvn clean compile
-mvn clean javafx:run```
+    mvn clean compile
+    mvn clean javafx:run
 
 ya con eso deberia estar listo.
 
