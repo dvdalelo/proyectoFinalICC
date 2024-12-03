@@ -1,0 +1,58 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/home/david/.m2/repository/org/opencv/opencv/4.6.0/opencv-4.6.0.jar:/home/david/.m2/repository/org/openjfx/javafx-controls/23.0.1/javafx-controls-23.0.1.jar:/home/david/.m2/repository/org/openjfx/javafx-controls/23.0.1/javafx-controls-23.0.1-linux.jar:/home/david/.m2/repository/org/openjfx/javafx-graphics/23.0.1/javafx-graphics-23.0.1.jar:/home/david/.m2/repository/org/openjfx/javafx-graphics/23.0.1/javafx-graphics-23.0.1-linux.jar:/home/david/.m2/repository/org/openjfx/javafx-base/23.0.1/javafx-base-23.0.1.jar:/home/david/.m2/repository/org/openjfx/javafx-base/23.0.1/javafx-base-23.0.1-linux.jar:/home/david/.m2/repository/org/openjfx/javafx-fxml/23.0.1/javafx-fxml-23.0.1.jar:/home/david/.m2/repository/org/openjfx/javafx-fxml/23.0.1/javafx-fxml-23.0.1-linux.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/david/PracticaFinalICC/opencvproject/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Random Number Generator 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Random Number Generator 1.0-SNAPSHOT API'
+com.david.project
+/home/david/.m2/repository/org/opencv/opencv/4.6.0/opencv-4.6.0.jar = 1733042388789
+/home/david/.m2/repository/org/openjfx/javafx-controls/23.0.1/javafx-controls-23.0.1.jar = 1733047462089
+/home/david/.m2/repository/org/openjfx/javafx-controls/23.0.1/javafx-controls-23.0.1-linux.jar = 1733047462621
+/home/david/.m2/repository/org/openjfx/javafx-graphics/23.0.1/javafx-graphics-23.0.1.jar = 1733047462084
+/home/david/.m2/repository/org/openjfx/javafx-graphics/23.0.1/javafx-graphics-23.0.1-linux.jar = 1733047462858
+/home/david/.m2/repository/org/openjfx/javafx-base/23.0.1/javafx-base-23.0.1.jar = 1733047462102
+/home/david/.m2/repository/org/openjfx/javafx-base/23.0.1/javafx-base-23.0.1-linux.jar = 1733047462585
+/home/david/.m2/repository/org/openjfx/javafx-fxml/23.0.1/javafx-fxml-23.0.1.jar = 1733047462195
+/home/david/.m2/repository/org/openjfx/javafx-fxml/23.0.1/javafx-fxml-23.0.1-linux.jar = 1733047462374
+/home/david/PracticaFinalICC/opencvproject/src/main/java = 1733042835477
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/tag-search-index.js = 1733210958317
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/package-search-index.js = 1733210958316
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/index-all.html = 1733210958358
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/script.js = 1733210958377
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/index.html = 1733210958362
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/allpackages-index.html = 1733210958315
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/element-list = 1733210958251
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/copy.svg = 1733210958378
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/stylesheet.css = 1733210958375
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/link.svg = 1733210958378
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/search.html = 1733210958361
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/search.js = 1733210958383
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/module-search-index.js = 1733210958316
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/help-doc.html = 1733210958370
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/allclasses-index.html = 1733210958312
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/type-search-index.js = 1733210958316
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/member-search-index.js = 1733210958317
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/search-page.js = 1733210958386
+/home/david/PracticaFinalICC/opencvproject/target/reports/apidocs/overview-tree.html = 1733210958296

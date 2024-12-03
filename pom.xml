@@ -60,6 +60,18 @@
             <mainClass>com.david.project.App</mainClass>
         </configuration>
     </plugin>
+
+    <!-- Javadoc Maven Plugin -->
+    <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-javadoc-plugin</artifactId>
+            <version>3.11.1</version>
+            <configuration>
+                <source>21</source>
+                <failOnError>false</failOnError>
+                <show>protected</show>
+            </configuration>
+        </plugin>
 </plugins>
 </build>
 </project>
